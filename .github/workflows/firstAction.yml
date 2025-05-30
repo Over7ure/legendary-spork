@@ -5,6 +5,8 @@ permissions:
   contents: read
 permissions:
   contents: read
+permissions:
+  contents: read
 
 # Controls when the workflow will run
 on:
